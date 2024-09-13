@@ -21,6 +21,7 @@ aeries.wuhsd.org###ctl00_MainContent_subGRD_DataDetails_ctl02_ReadRow1
 aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(7) > .FullWidthAutoHeight > .Card
 classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(12)
 classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(6)
+classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(8)
 classroom.google.com###EARLIER
 classroom.google.com##li.OJchBc.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(9)
 classroom.google.com##li.OJchBc.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(11)
