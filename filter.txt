@@ -1,0 +1,21 @@
+aeries.wuhsd.org##div.CardWithPeriod.Card:nth-of-type(2)
+aeries.wuhsd.org##tr.k-alt:nth-of-type(3)
+aeries.wuhsd.org##td:nth-of-type(2)
+aeries.wuhsd.org###tableClassSummary > tbody
+aeries.wuhsd.org##.Period
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(23) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##td.ac.HCell:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl01_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl02_trGBKItem
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl03_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl04_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl05_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl06_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl07_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl08_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl09_trGBKItem > td.ac.Data:nth-of-type(5)
+aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl10_trGBKItem
+aeries.wuhsd.org##tr.newRow:nth-of-type(4)
+aeries.wuhsd.org###NavSubGradebook\ Details
+aeries.wuhsd.org###ctl00_MainContent_subGRD_DataDetails_ctl02_ReadRow1
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(7) > .FullWidthAutoHeight > .Card
