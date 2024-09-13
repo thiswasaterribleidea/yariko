@@ -19,3 +19,5 @@ aeries.wuhsd.org##tr.newRow:nth-of-type(4)
 aeries.wuhsd.org###NavSubGradebook\ Details
 aeries.wuhsd.org###ctl00_MainContent_subGRD_DataDetails_ctl02_ReadRow1
 aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(7) > .FullWidthAutoHeight > .Card
+classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(12)
+classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(6)
