@@ -26,3 +26,5 @@ classroom.google.com###EARLIER
 classroom.google.com##li.OJchBc.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(9)
 classroom.google.com##li.OJchBc.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(11)
 classroom.google.com##.YVvGBb.udxSmc
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(19) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##table:nth-of-type(3)
