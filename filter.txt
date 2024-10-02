@@ -33,3 +33,4 @@ aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(13) > .Fu
 aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(11) > .FullWidthAutoHeight > .Card
 aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(9) > .FullWidthAutoHeight > .Card
 classroom.google.com###LAST_WEEK > .JQIfHf.sjxkNc > .e2urcc > .yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic
+aeries.wuhsd.org##.TextSubSection.footer
