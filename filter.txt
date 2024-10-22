@@ -1,36 +1,8 @@
-aeries.wuhsd.org##div.CardWithPeriod.Card:nth-of-type(2)
-aeries.wuhsd.org##tr.k-alt:nth-of-type(3)
-aeries.wuhsd.org##td:nth-of-type(2)
-aeries.wuhsd.org###tableClassSummary > tbody
-aeries.wuhsd.org##.Period
-aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(23) > .FullWidthAutoHeight > .Card
-aeries.wuhsd.org##td.ac.HCell:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl01_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl02_trGBKItem
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl03_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl04_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl05_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl06_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl07_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl08_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl09_trGBKItem > td.ac.Data:nth-of-type(5)
-aeries.wuhsd.org###ctl00_MainContent_subGBS_DataDetails_ctl10_trGBKItem
-aeries.wuhsd.org##tr.newRow:nth-of-type(4)
-aeries.wuhsd.org###NavSubGradebook\ Details
-aeries.wuhsd.org###ctl00_MainContent_subGRD_DataDetails_ctl02_ReadRow1
-aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(7) > .FullWidthAutoHeight > .Card
-classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(12)
-classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(6)
-classroom.google.com##li.yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(8)
-classroom.google.com###EARLIER
-classroom.google.com##li.OJchBc.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(9)
-classroom.google.com##li.OJchBc.Fh209b.CNpREd.QRiHXd.MHxtic:nth-of-type(11)
-classroom.google.com##.YVvGBb.udxSmc
-aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(19) > .FullWidthAutoHeight > .Card
-aeries.wuhsd.org##table:nth-of-type(3)
-aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(17) > .FullWidthAutoHeight > .Card
-aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(13) > .FullWidthAutoHeight > .Card
-aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(11) > .FullWidthAutoHeight > .Card
 aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(9) > .FullWidthAutoHeight > .Card
-classroom.google.com###LAST_WEEK > .JQIfHf.sjxkNc > .e2urcc > .yiBaHe.Fh209b.CNpREd.QRiHXd.MHxtic
-aeries.wuhsd.org##.TextSubSection.footer
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(37) > .FullWidthAutoHeight > .Card > div:nth-of-type(4)
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(39) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(99) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(97) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(107) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(105) > .FullWidthAutoHeight > .Card
+aeries.wuhsd.org##tr.forceShow.CardView.FullWidth.tinymode:nth-of-type(41) > .FullWidthAutoHeight > .Card
